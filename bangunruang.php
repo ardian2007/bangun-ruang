@@ -1,6 +1,8 @@
 <?php
 class persegipanjang
 {
+	public $panjang, $lebar;
+
 	function luasPersegipanjang(){
 
 	}
