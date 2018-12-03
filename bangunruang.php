@@ -8,7 +8,7 @@ class persegipanjang
 	}
 
 	function kelilingPersegipanjang(){
-
+		return 2 * ($panjang + $lebar);
 	}
 
 }
